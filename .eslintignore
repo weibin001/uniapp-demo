@@ -1,0 +1,5 @@
+dist/*.js
+src/assets
+src/pwa
+src/*.nvue
+node_modules
